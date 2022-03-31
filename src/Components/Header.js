@@ -22,7 +22,7 @@ function Header() {
             </div>
             <div className="header-right">
             <div className="header-icons">
-                    <div className="header-icon-details"><HomeIcon/><div>Home</div></div>
+                    <div className="header-icon-details"><HomeIcon/><div>My Home</div></div>
                     <div className="header-icon-details"><PeopleIcon/><div>My network</div></div>
                     <div className="header-icon-details"><WorkIcon/><div>Jobs</div></div>
                     <div className="header-icon-details"><SmsIcon/><div>Messaging</div></div>
